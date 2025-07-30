@@ -11,6 +11,7 @@
 			"location": {
 				"type": "AzureBlobFSLocation",
 				"fileName": "TaxiRides.csv",
+				"folderPath": "taxidataholder",
 				"fileSystem": "taxidata"
 			},
 			"columnDelimiter": ",",
