@@ -1,0 +1,9 @@
+{
+	"name": "adflabs12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3eb6fc86-aeca-4d7c-93aa-615162ac1f5b",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
